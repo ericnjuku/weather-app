@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-     <h1>Weather</h1>
+     <h1>Weather app</h1>
     </>
   )
 }
